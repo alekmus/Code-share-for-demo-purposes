@@ -1,6 +1,6 @@
 # Code-share-for-demo-purposes
 
-Purpose of this repository is to simply house coding samples that are either their own individual smaller script that don't warrant their own full repositories 
+Purpose of this repository is to simply house coding samples that are either their own individual smaller scripts that doesn't warrant their own full repositories 
 or are single modules of larger projects that aren't ready to be made public as a whole yet.
 
 Currently the repo houses
